@@ -14,13 +14,15 @@
 ## Summary
 ### *Advantages and Disadvantages of Refactoring*
 * Advantages
-  *
-  *
-  *
+  * bla
+  * bla
+  * bla
 
 * Disadvantages
-  *
-  *
-  *
+  * bla
+  * bla
+  * bla
 
 ### *How do these factors apply to refactoring the original VBA Script?*
+
+## Final Remarks
